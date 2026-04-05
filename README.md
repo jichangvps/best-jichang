@@ -63,30 +63,11 @@
 
 ## 📋 目录导航
 
-- [快速选择场景](#tldr)
 - [一、主力机场（重点推荐）](#main)
 - [二、备用机场（按需选择）](#backup)
 - [三、优惠码汇总](#unlimited)
 - [更新纪录](#update)
 - [FAQ 常见问题](#faq)
-
----
-
-<span id="tldr"></span>
-## 快速选择场景
-
-| 你的需求 | 推荐 |
-|---------|------|
-| 主力首选、晚高峰流畅看 4K | [红杏云](https://go.clashshome.com/hongxingyun) / [乌龟加速](https://go.clashshome.com/wuguijiasu) / [糖果云](https://go.clashshome.com/tangguoyun) |
-| 月预算 10 元以下 | [M78星云](https://go.clashshome.com/m78xingyun)（¥7.8起）/ [飞鸟云传家宝](https://go.clashshome.com/feiniaoyun)（年12元）/ [布丁猫](https://go.clashshome.com/budingcat)（¥8，稳定性一般） |
-| 月预算 15-25 元 | [宝可梦加速](https://go.clashshome.com/baokemeng) / [M78星云](https://go.clashshome.com/m78xingyun) / [悦通](https://go.clashshome.com/yuetong) Air |
-| 新疆用户专用 | [宝可梦加速](https://go.clashshome.com/baokemeng) / [万达云](https://go.clashshome.com/wandayun)（新疆IPV6套餐） |
-| 家庭多人共享（3-5人）| [红杏云](https://go.clashshome.com/hongxingyun) / [乌龟加速](https://go.clashshome.com/wuguijiasu)（不限设备） |
-| 追剧重度用户（附赠 EMBY）| [红杏云](https://go.clashshome.com/hongxingyun) / [乌龟加速](https://go.clashshome.com/wuguijiasu) / [万达云](https://go.clashshome.com/wandayun) / [overwall](https://go.clashshome.com/overwall) |
-| 不常用、当备用囤流量 | [魔戒](https://go.clashshome.com/mojieapp)（全不限时）/ [飞鸟云不限时包](https://go.clashshome.com/feiniaoyun) / [悦通不限时包](https://go.clashshome.com/yuetong) |
-| 出差/短期使用 | [悦通](https://go.clashshome.com/yuetong) Travel 包 / [魔戒](https://go.clashshome.com/mojieapp) 130G ¥14.9 |
-| 游戏低延迟 | [overwall](https://go.clashshome.com/overwall)（IEPL+游戏专线）/ [M78星云](https://go.clashshome.com/m78xingyun)（2000Mbps）|
-| 5人以上团队 | [悦通](https://go.clashshome.com/yuetong)企业版 / [乌龟加速](https://go.clashshome.com/wuguijiasu)大流量包 |
 
 ---
 
