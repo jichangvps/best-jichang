@@ -142,7 +142,7 @@
 | 豪华-不限时 6000G | ¥688/一次性 | 1000Mbps | 最多 20 台设备 |  |
 
 <p align="center">
-  <img src="images/hongxingyun.png" width="100%" alt="红杏云">
+  <img src="images/hongxingyun1.png" width="100%" alt="红杏云">
 </p>
 
 ---
