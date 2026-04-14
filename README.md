@@ -10,7 +10,7 @@
 
 ## 📢 近期公告
 
-> 新增主力机场：[快雷go](https://go.clashshome.com/kuailei)。IEPL专线为主，98% 节点可用率，支持 TikTok/Netflix/Disney+/ChatGPT 全流媒体解锁，近期上线电信方向优化，电信用户体验提升明显。
+> 新增主力机场：[快雷go](https://go.clashshome.com/kuaileigo)。IEPL专线为主，98% 节点可用率，支持 TikTok/Netflix/Disney+/ChatGPT 全流媒体解锁，近期上线电信方向优化，电信用户体验提升明显。
 
 ---
 
@@ -67,7 +67,7 @@
   - [1. 红杏云](#hongxingyun)
   - [2. 宝可梦加速器](#baokemeng)
   - [3. Mitce](#mitce)
-  - [4. 快雷go](#kuailei)
+  - [4. 快雷go](#kuaileigo)
   - [5. 万达云](#wandayun)
 - [二、备用机场（按需选择）](#backup)
   - [1. overwall](#overwall)
@@ -259,11 +259,11 @@
 
 ---
 
-<span id="kuailei"></span>
+<span id="kuaileigo"></span>
 ### 4. 快雷go - IEPL专线 + 全流媒体解锁 + 电信方向优化
 
 **官网入口**：
-- [快雷go官网](https://go.clashshome.com/kuailei)
+- [快雷go官网](https://go.clashshome.com/kuaileigo)
 
 **优惠码**：`kuailei888`
 
