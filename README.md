@@ -395,7 +395,7 @@
 | 落地 ISP | Vietnam Posts（越南电信）、Chunghwa Telecom（台湾HiNet）、Leaseweb、Daou Tech（韩国）、Light Node 等多家 |
 | 节点数量 | 140+（可用率 62%） |
 | 协议 | VLESS + Hysteria2 |
-| 设备限制 | 5（普通），Max/Infinity 套餐物理隔离 |
+| 设备限制 | 5-20，Max/Infinity 套餐物理隔离 |
 | AI流媒体解锁 | 解锁 |
 | 审计情况 | 无审计 |
 | 付款方式 | 支付宝 / 微信 |
